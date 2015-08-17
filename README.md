@@ -1,4 +1,5 @@
 fractals
 ========
 
-For now, just a second-order Julia Set generator. Higher orders, and possibly other fractals, still to come.
+Generates Mandelbrot, Multibrot, and Nth-Degree Julia Fractals as .ppm images.
+Specifying options on the command line is getting cumbersome, so I'm looking into another solution.
