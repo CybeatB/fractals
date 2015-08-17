@@ -1,2 +1,2 @@
 julia2:
-	gcc -std=c99 julia2.c -o julia2.bin
+	gcc -std=c99 fractal.c -o fractal
